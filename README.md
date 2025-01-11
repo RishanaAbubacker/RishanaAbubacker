@@ -1,6 +1,6 @@
 # Hi there, I'm Rishana Abubacker! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer who loves coding and exploring new technologies.
+Welcome to my GitHub profile! I'm a passionate data analyst who loves coding and exploring new technologies.
 
 ## About Me
 
