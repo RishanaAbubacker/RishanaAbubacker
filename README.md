@@ -23,13 +23,13 @@ Welcome to my GitHub profile! I'm a passionate data analyst who loves coding and
 
 ## My Projects
 
-### Tweets-Sentiment-Analysis
+### Tweets Sentiment Analysis
 Description: The aim of the project is to build a model to predict sentiment of tweets using NLP tools
 
-### Medical-Premium-Price-EDA
+### Medical Premium-Price EDA
 Description: Perform an exploratory data analysis to determine what factors play an important role in determining the premium of the user.
 
-### Machine-Learning-Models-for-COVID-19-Infection-Prediction
+### Machine Learning Models for COVID-19 Infection Prediction
 Description: Objective is to develop a COVID-19 prediction system to contribute to the current human crisis with a view to complementing and reducing the huge burden on the limited healthcare system
 
 ## Connect with Me
