@@ -4,9 +4,9 @@ Welcome to my GitHub profile! I'm a passionate data analyst who loves coding and
 
 ## About Me
 
-- 🔭 I’m currently working on [Customer Support Dataset]
-- 🌱 I’m currently learning [Python/SQL]
-- 👯 I’m looking to collaborate on [Data Science Projects]
+- 🔭 I’m a Senior Data Analyst, currently working on Customer Support Dataset
+- 🌱 I’m currently learning Python/SQL
+- 👯 I’m looking to collaborate on Data Science Projects
 
 ## My Skills
 
