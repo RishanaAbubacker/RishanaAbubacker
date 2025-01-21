@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst who loves coding and
 ## About Me
 
 - 🔭 I’m a Senior Data Analyst, currently working on Customer Support Dataset
-- 🌱 I’m currently learning Python/SQL
+- 🌱 I’m learning Python/SQL
 - 👯 I’m looking to collaborate on Data Science Projects
 
 ## My Skills
@@ -26,7 +26,7 @@ Welcome to my GitHub profile! I'm a passionate data analyst who loves coding and
 ### Tweets-Sentiment-Analysis
 Description: The aim of the project is to build a model to predict sentiment of tweets using NLP tools
 
-### Mediacal-Premium-Price-EDA
+### Medical-Premium-Price-EDA
 Description: Perform an exploratory data analysis to determine what factors play an important role in determining the premium of the user.
 
 ### Machine-Learning-Models-for-COVID-19-Infection-Prediction
