@@ -9,9 +9,7 @@ I have delivered analytics across 60+ engagements for Tier-1 clients, operating 
 
 I specialize in owning analytics end to end, from raw data extraction and modeling to executive-ready dashboards and recommendations. I work extensively with structured and unstructured data, combining advanced SQL, Python automation, and LLM-powered insight extraction to scale analysis and accelerate decision-making.
 
-**🧠 What I Do Best (Skills & Strengths)**
-
-**Core Skills & Strengths**
+**🧠 What I Do Best**
 
 Data Analysis & SQL
 
@@ -47,13 +45,11 @@ Qualitative-to-quantitative analysis of customer signals
 
 Competitor benchmarking and investor-focused analytics
 
-****💼 Professional Experience (What I’ve Done)**
-
-**Experience Snapshot — Senior Data Analyst**
+**💼What I’ve Done**
 
 In my role as a Senior Data Analyst, I work closely with consultants, investors, product teams, and CX leaders to support data-backed decision-making at scale.
 
-My experience includes:
+**My experience includes:**
 
 Owning analytics across NPS surveys, customer support tickets, reviews, and feedback
 
@@ -69,9 +65,90 @@ Automating reporting workflows, improving efficiency by ~60% and increasing deci
 
 I have analyzed 30M+ records across EMEA, APAC, North America, and LATAM, ensuring insights are reliable, comparable, and actionable across regions.
 
+**🧩 FLAGSHIP PROJECTS**
+
+**Project 1: NPS & Customer Sentiment Analytics Platform**
+
+**Problem:**
+Leadership lacked a unified view of customer sentiment across surveys, reviews, and support tickets, slowing prioritization of experience improvements.
+
+**Approach:**
+
+Built SQL-driven pipelines to consolidate NPS, review text, and ticket data
+
+Designed Tableau dashboards tracking sentiment trends, key drivers, and regional performance
+
+Performed root cause analysis to identify top contributors to customer dissatisfaction
+
+**Impact:**
+
+Enabled 5–30% reduction in customer negativity across multiple brands
+
+Improved decision velocity by ~40% through automated reporting
+
+Used by senior stakeholders for experience prioritization
+
+
+**Project 2: Customer Churn & Retention Deep Dive**
+
+**Problem:**
+Clients lacked clarity on drivers of customer churn and retention risks.
+
+**Approach:**
+
+Analyzed customer interaction data using advanced SQL
+
+Identified high-impact churn indicators across support issues and feedback
+
+Partnered with stakeholders to translate insights into actionable initiatives
+
+**Impact:**
+
+Supported initiatives contributing to ~20% reduction in customer churn
+
+Enabled targeted retention strategies instead of broad, reactive actions
+
+
+**Project 3: Competitor Benchmarking for Investment Decisions**
+
+**Problem:**
+Investors required data-backed benchmarking to evaluate competitive positioning of portfolio companies.
+
+**Approach:**
+
+Built comparative dashboards benchmarking sentiment, issue frequency, and experience metrics
+
+Analyzed customer feedback and reviews across competing brands
+
+Highlighted strengths, gaps, and risk signals for investment teams
+
+**Impact:**
+
+Informed investment and due-diligence decisions for multiple investor clients
+
+Used in strategic discussions with portfolio company leadership
+
+**Project 4: Product Improvement Prioritization for Consumer Brands**
+
+**Problem:**
+Product teams struggled to prioritize improvements based on fragmented customer feedback.
+
+**Approach:**
+
+Mapped customer issues to product features using SQL-based analysis
+
+Quantified impact using frequency, sentiment, and trend analysis
+
+Delivered clear, ranked recommendations to stakeholders
+
+**Impact:**
+
+Informed product improvement initiatives for ~60% of consumer brand clients
+
+Shifted teams from intuition-led to data-backed prioritization
+
 **🚀 Impact & Outcomes**
 
-Impact Highlights
 
 📉 Enabled 5–30% reduction in customer negativity across multiple brands by identifying key experience drivers
 
@@ -85,9 +162,9 @@ Impact Highlights
 
 🏢 Delivered analytics across 60+ Tier-1 client engagements for global brands
 
-******🎯 How I Approach Analytics
+**🎯 How I Approach Analytics**
 
-My Analytics Philosophy******
+**My Analytics Philosophy**
 
 I believe strong analytics is not about dashboards alone, but about decision clarity.
 
