@@ -47,9 +47,9 @@ Qualitative-to-quantitative analysis of customer signals
 
 Competitor benchmarking and investor-focused analytics
 
-**💼 Professional Experience (What I’ve Done)
+****💼 Professional Experience (What I’ve Done)**
 
-Experience Snapshot — Senior Data Analyst
+**Experience Snapshot — Senior Data Analyst**
 **
 In my role as a Senior Data Analyst, I work closely with consultants, investors, product teams, and CX leaders to support data-backed decision-making at scale.
 
@@ -69,7 +69,7 @@ Automating reporting workflows, improving efficiency by ~60% and increasing deci
 
 I have analyzed 30M+ records across EMEA, APAC, North America, and LATAM, ensuring insights are reliable, comparable, and actionable across regions.
 
-🚀 Selected Impact & Outcomes
+**🚀 Impact & Outcomes**
 
 Impact Highlights
 
@@ -85,13 +85,13 @@ Impact Highlights
 
 🏢 Delivered analytics across 60+ Tier-1 client engagements for global brands
 
-**🎯 How I Approach Analytics
+****🎯 How I Approach Analytics
 
-My Analytics Philosophy**
+My Analytics Philosophy****
 
 I believe strong analytics is not about dashboards alone, but about decision clarity.
 
-My approach focuses on:
+**My approach focuses on:**
 
 Asking the right business and product questions
 
