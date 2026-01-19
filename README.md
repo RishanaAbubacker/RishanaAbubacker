@@ -85,9 +85,9 @@ Impact Highlights
 
 🏢 Delivered analytics across 60+ Tier-1 client engagements for global brands
 
-****🎯 How I Approach Analytics
+******🎯 How I Approach Analytics
 
-My Analytics Philosophy****
+My Analytics Philosophy******
 
 I believe strong analytics is not about dashboards alone, but about decision clarity.
 
