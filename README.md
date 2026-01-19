@@ -50,7 +50,7 @@ Competitor benchmarking and investor-focused analytics
 ****💼 Professional Experience (What I’ve Done)**
 
 **Experience Snapshot — Senior Data Analyst**
-**
+
 In my role as a Senior Data Analyst, I work closely with consultants, investors, product teams, and CX leaders to support data-backed decision-making at scale.
 
 My experience includes:
