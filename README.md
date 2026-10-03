@@ -6,11 +6,11 @@
 
 ## 👋 About Me
 
-I am a Senior Data Analyst with 4+ years of experience turning complex, high-volume data into clear, actionable insights that drive business, product, and customer decisions.
+I am a Senior Data Analyst with 5 years of experience turning complex, high-volume data into clear, actionable insights that drive business, product, and customer decisions.
 
 I have delivered analytics across **60+ engagements for Tier-1 clients**, operating in fast-paced, high-expectation environments where accuracy, clarity, and impact matter. My work supports global Consumer and Healthcare brands by helping leaders understand **what is happening, why it is happening, and what to do next**.
 
-I specialize in owning analytics end to end, from raw data extraction and modeling to executive-ready dashboards and recommendations. I work extensively with both structured and unstructured data, combining **advanced SQL, Python automation, and LLM-powered insight extraction** to scale analysis and accelerate decision-making.
+I specialize in owning analytics end to end, from raw data extraction and modeling to executive-ready dashboards and recommendations. I work extensively with both structured and unstructured data, combining **advanced SQL, Python automation, PySpark data piepelines (Databricks) and LLM-powered insight extraction** to scale analysis and accelerate decision-making.
 
 ---
 
@@ -18,9 +18,10 @@ I specialize in owning analytics end to end, from raw data extraction and modeli
 
 ### Data Analysis & SQL
 
-* Advanced SQL (CTEs, window functions, complex joins)
+* Data Engineering using Advanced SQL (CTEs, window functions, complex joins) on Unified analytics platform (Databricks)
 * Exploratory data analysis & root cause analysis
 * Metric definition and ownership (NPS, churn, sentiment)
+* Predictive Analysis using classing machine learning models (MLflow)
 * Hypothesis-driven analytical deep dives
 
 ### Dashboards & Storytelling
@@ -50,7 +51,7 @@ In my role as a Senior Data Analyst, I work closely with consultants, investors,
 ### My experience includes:
 
 * Owning analytics across NPS surveys, customer support tickets, reviews, and feedback
-* Building SQL-driven pipelines and Tableau dashboards to monitor performance and identify trends
+* Building SQL-driven pipelines and Tableau dashboards to monitor performance and identify trends on Unified Anaytics Platform
 * Conducting deep-dive analyses to uncover root causes behind customer dissatisfaction and churn
 * Delivering competitor benchmarking analyses to support investment and strategic decisions
 * Applying LLM-powered insight extraction to scale qualitative analysis and surface emerging themes faster
@@ -167,6 +168,6 @@ I aim to help teams move from **reactive reporting to proactive, insight-led dec
 ## 📬 Let’s Connect
 
 * [LinkedIn](https://www.linkedin.com/in/rishana-abubacker-54045713b/)
-* [Email](mailto:rishanaabubacker.abc@gmail.com)
+* [Email](mailto:rishanaabubacker@gmail.com)
 
 ![Rishana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RishanaAbubacker\&show_icons=true\&hide=prs,issues\&theme=radical)
