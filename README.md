@@ -10,7 +10,7 @@ I am a Senior Data Analyst with 5 years of experience turning complex, high-volu
 
 I have delivered analytics across **60+ engagements for Tier-1 clients**, operating in fast-paced, high-expectation environments where accuracy, clarity, and impact matter. My work supports global Consumer and Healthcare brands by helping leaders understand **what is happening, why it is happening, and what to do next**.
 
-I specialize in owning analytics end to end, from raw data extraction and modeling to executive-ready dashboards and recommendations. I work extensively with both structured and unstructured data, combining **advanced SQL, Python automation, PySpark data piepelines (Databricks) and LLM-powered insight extraction** to scale analysis and accelerate decision-making.
+I specialize in owning analytics end to end, from raw data extraction and modeling to executive-ready dashboards and recommendations using RAG. I work extensively with both structured and unstructured data, combining **advanced SQL, Python automation, PySpark data piepelines (Databricks) and LLM-powered insight extraction** to scale analysis and accelerate decision-making.
 
 ---
 
