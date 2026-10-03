@@ -22,7 +22,7 @@ I specialize in owning analytics end to end, from raw data extraction and modeli
 * Exploratory data analysis & root cause analysis
 * Metric definition and ownership (NPS, churn, sentiment)
 * Predictive Analysis using classing machine learning models (MLflow)
-* Hypothesis-driven analytical deep dives
+* Building Retrieval-Augmented Generation (RAG) pipelines
 
 ### Dashboards & Storytelling
 
